@@ -19,7 +19,7 @@ from kivy.graphics import Color, RoundedRectangle, Rectangle, Line
 from kivy.metrics import dp, sp
 
 # ── API CONFIG ──────────────────────────────────────────────
-OPENROUTER_API_KEY  = "xxxxxxxxxxxxxxxxxxxxxxxx"   # ← paste your key
+OPENROUTER_API_KEY  = ""   # ← paste your key
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 MODELS = [
